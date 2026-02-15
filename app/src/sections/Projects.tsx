@@ -38,7 +38,7 @@ const Projects = () => {
         'A modern, responsive portfolio website built with React and Tailwind CSS. Features smooth animations, dark theme, and interactive elements to showcase skills and projects effectively.',
       image: '/project-portfolio.jpg',
       tech: ['React.js', 'Tailwind CSS', 'TypeScript', 'Vite'],
-      github: 'https://github.com/Aniket-49001',
+      github: 'https://github.com/Aniket-49001/Aniket-Yadav-Portfolio',
       live: '#',
       icon: Code2,
       color: '#61dafb',
